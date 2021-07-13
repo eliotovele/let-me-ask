@@ -10,10 +10,6 @@
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
 </p>
 
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
-
 <br>
 
 ## 🧪 Technologies
@@ -29,8 +25,8 @@ This Project was built using these technologies:
 Clone the project and the folder.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/rocketseat-education/let-me-ask
+$ cd let-me-ask
 ```
 
 To start, follow the steps below:
