@@ -25,7 +25,7 @@ This Project was built using these technologies:
 Clone the project and the folder.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/let-me-ask
+$ git clone https://github.com/eliotovele/let-me-ask
 $ cd let-me-ask
 ```
 
